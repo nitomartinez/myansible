@@ -1,4 +1,0 @@
-myansible-role
-==============
-
-test
