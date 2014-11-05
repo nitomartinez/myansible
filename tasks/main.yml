@@ -1,2 +1,4 @@
 ---
-# tasks file for myansible-role
+# tasks file for myansible
+- name: some debug
+  debug: msg="my ansible task"
