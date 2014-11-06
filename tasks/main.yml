@@ -2,3 +2,5 @@
 # tasks file for myansible
 - name: some debug
   debug: msg="my ansible task"
+- name: some debug for 1.6
+  debug: msg="my ansible task 1.6"
